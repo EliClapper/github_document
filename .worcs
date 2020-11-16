@@ -1,0 +1,8 @@
+worcs_version: 0.1.5
+creator: e_lib
+entry_point: manuscript/manuscript.Rmd
+checksums:
+  iris.csv: 395d6abd001abf3760a1a794ef4c453c
+data:
+  iris.csv:
+    codebook: codebook_iris.Rmd
